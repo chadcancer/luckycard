@@ -140,7 +140,7 @@ body{
         background-image: url(img/photo2.jpg);
         width: 400px;
         height: 667px;
-        margin-left: -40px;
+        margin-left: -40%;
     }
 
     #screenPosition {
