@@ -138,8 +138,8 @@ body{
 
     #back {
         background-image: url(img/photo2.jpg);
-/*         width: 375px;
-        height: 667px; */
+        width: 375px;
+        height: 667px;
         margin-left: 0;
     }
 
